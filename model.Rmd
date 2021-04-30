@@ -1,0 +1,44 @@
+---
+title: "Model Questions"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+## Model Questions
+
+1. Using diamonds dataset, create a scatter plot to visualize the relationship between carat and price variables.
+
+```{r}
+library(swirl)
+```
+
+
+2. Provided the mpg dataset, create a bar plot to visualize the frequencies of driving type of all the cars.
+
+```{r}
+
+```
+
+
+3. Provided the nycflights13::flights dataset, find the monthly average delay of all the flights.
+
+```{r}
+
+```
+
+
+4. Provided the arbuthnot dataset, create a new variable that indicates whether number of baptised boys is greater than number of baptised girls in an year.
+
+```{r}
+
+```
+
+
+5. Provided a dataset as csv file, import the dataset into R.
+
+```{r}
+
+```
+
